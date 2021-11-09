@@ -1,0 +1,33 @@
+#firstP{
+    text-align: center;
+    font-size: 80px;
+    margin-top: 1vh;
+}
+
+#positive{
+    visibility: hidden;
+}
+
+#negative{
+    visibility: hidden;
+}
+
+#button1{
+    text-align: center;
+    margin-left: 45%;
+    
+}
+#button1:hover{
+    font-size: 15px;
+    color: red;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 40%;
+    padding-top: 0%;
+    position: absolute;
+  }
